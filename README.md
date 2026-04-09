@@ -13,6 +13,17 @@ Este projeto consiste em um robô de **RPA (Robotic Process Automation)** desenv
 * **Microsoft Power Automate Desktop**
 * **Microsoft Excel**
 * **Windows Task Scheduler** (Orquestração)
+  
+ ## 📊 Business Intelligence com Power BI
+A última atualização do projeto adicionou uma camada de visualização avançada para análise de dados, transformando registros brutos em inteligência de negócio.
+
+### 🛠️ Engenharia de Dados Aplicada:
+* **Normalização de Escala:** Implementação de transformação via Power Query (divisão por 10.000) para correção de precisão decimal.
+* **Tipagem de Dados:** Configuração de colunas para `Número Decimal` com precisão fixa de 4 casas (padrão mercado financeiro).
+* **UI/UX Design:** Desenvolvimento de interface com tema "High Contrast" (Inovação) para facilitar o monitoramento em ambientes industriais ou de escritório.
+
+### 📈 Visualização do Dashboard
+![Preview do Dashboard](preview_dashboard.png)
 
 ## 📸 Demonstração
 
