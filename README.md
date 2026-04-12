@@ -37,5 +37,8 @@ A última atualização do projeto adicionou uma camada de visualização avanç
 ### Agendamento Automático
 ![Agendador de Tarefas](agendador-windows.png)
 
+### ⚠️ Notificação de Alerta em Execução
+O sistema monitora variações bruscas e notifica o usuário instantaneamente:
+![Alerta de Câmbio](image_139c87.png)
 ---
 *Projeto desenvolvido por Natanael Lira Ferreira - Estudante de Engenharia de Software.*
