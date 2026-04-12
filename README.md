@@ -8,6 +8,7 @@ Este projeto consiste em um robô de **RPA (Robotic Process Automation)** desenv
 * **Histórico Inteligente:** Implementação de lógica para identificar a **primeira linha livre** no Excel, permitindo o acúmulo de dados sem sobrescrever registros anteriores.
 * **Execução Autônoma:** Agendamento via **Windows Task Scheduler** para execução diária às 10:30.
 * **Tratamento de Exceções:** Configuração de regras de erro para garantir a estabilidade do fluxo.
+* **Sistema de Alerta Nativo:** Lógica condicional integrada para disparar notificações pop-up no Windows sempre que o ativo atingir um preço-alvo configurável (Threshold).
 
 ## 🛠️ Tecnologias Utilizadas
 * **Microsoft Power Automate Desktop**
